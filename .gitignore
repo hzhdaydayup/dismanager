@@ -21,3 +21,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+#自己增加的不必要文件
+user.json
+user1.json
